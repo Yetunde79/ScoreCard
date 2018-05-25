@@ -1,0 +1,21 @@
+body{
+    background-image: url(wood.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-weight: bold;
+}
+
+.padding{
+    padding-left: 15%;
+}
+.padding-b{
+    padding-left: 7%;
+}
+
+.winner{
+    color: green;
+}
+
